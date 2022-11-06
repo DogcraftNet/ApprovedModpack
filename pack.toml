@@ -1,0 +1,13 @@
+name = "DogcraftApproved"
+author = "William278"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "4b53db0b54b6c5d909c846aa38164d7b75c848021f3d0b1ca5a603c4742fc233"
+
+[versions]
+fabric = "0.14.10"
+minecraft = "1.18.2"
