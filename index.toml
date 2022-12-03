@@ -1,81 +1,94 @@
 hash-format = "sha256"
 
 [[files]]
+file = "LICENSE"
+hash = "49bbe9114e49214df2ccc324cb3ac8d1d1aa1c3a0947f94c286765e86647b32e"
+
+[[files]]
+file = "README.md"
+hash = "5e3f0acd80c274b4a4fa12b27e5f3e8138f5a24f7ee29bab849dd168fcfdbb85"
+
+[[files]]
 file = "mods/betterf3.pw.toml"
-hash = "c37ca9e96604f690578c8784cd791121baa5764a679ea44f990ab6699355a59d"
+hash = "e8cd685b609577ab23e2a55ec3273a1ff9475daef52f0999b2c5d27f7c795f5c"
 metafile = true
 
 [[files]]
 file = "mods/cit-resewn.pw.toml"
-hash = "3f2fabb5b9e0534db50a787a001261462354c0b5c4a19a2a35f8b271118e2909"
+hash = "0da3b33d0d62fcaf24835fb432b8dd9be02e82897cd43fddc38fa81106203d37"
 metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "77bd9b9ae2bf78481ba939cc78e5e4c0d9528516aa791305eecb39eb56e13125"
+hash = "213cad77d46ff46fe20780b01856cb1a8812747e9c3564203669bf3905e646e2"
 metafile = true
 
 [[files]]
 file = "mods/cull-less-leaves.pw.toml"
-hash = "cd41e5b7c8618ab49ce53eb61df2877be283b16eebf92b11f1b110bcd8494a02"
+hash = "c06e098c6d6eda6da4492e4a8dff1796e6081bbd30f487ffb89e1ed3c485e805"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "21011aebe000cc840f7d1b0f51e31d4a43ee6077a00e07332f1139a71813a5da"
+hash = "5153b742252cd104d2fd71eea311d7523ba1b808ef832f1b8a9b7ede7c12a6e2"
 metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "3c3f1788a62da45c975e150cc851ca6639c7d0dec10c43c9500f933ad15b1768"
+hash = "575bdefe476d24d7d50f7ac66bd80bf8c770d108bf4683a2e7d772c3dabb4fb1"
 metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "83541b1d3e1e936638a6938eb505bf0f508c13aed7f8416af8d064ffc7cda4dc"
+hash = "d2a65b42dcefbda9ac5c170ff5bf59b4a56ba192993a13d0b0da9b1f0678b4b3"
 metafile = true
 
 [[files]]
 file = "mods/logical-zoom.pw.toml"
-hash = "ceb6914dc615c4af05e942bb82011dc7d69f8a5051d35ddbaf958419d04b18a3"
+hash = "aa983d292ed70747f91c209b2109f7316b309bfe385d0ba41226b6835479d1c8"
 metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "e672a82c056e3aa8140bbdcdc82ccd7269133a830bcb880fa0b5fce9f42f2d3b"
+hash = "7358029830c4246e9039d12156bb5a0b7aecd128155330783ca8bdb57a12333c"
 metafile = true
 
 [[files]]
 file = "mods/phosphor.pw.toml"
-hash = "f257c1d69a789d7ddcb0578d5987a7fc2eaf1681f1718600c51bd2ce6bce5f19"
+hash = "466d5892937df5aa05388291463b163b42fa454d8bfd22713484a0167ca3702d"
 metafile = true
 
 [[files]]
 file = "mods/raised.pw.toml"
-hash = "f0aecc782bd16cc5790f3f94112b3d08f8d6c44c82cbd815233df2a25d947106"
+hash = "a11bee072c28f106a16bda9987613f5a361f26215cf91c75b4210c07b2cab4ef"
 metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "2ece972fd1306a38ca278d9da23656c73bc103df57709a4bdac0a0271a646f34"
+hash = "b2e3be698473bfb3f08865a11e74c9ee8d47239ac72a79d60acc1ee381722a50"
 metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
-hash = "67ac7ba93649c60e127b8b0c90889aed07837763b2250cfc9face0545e6888fc"
+hash = "1aae05e6f09e1883875e38bb77479d049fbc64d60a2215133fa747ed512205b2"
 metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "39269eb45ca79786c4eac3ede212feb85ccd90fe3e25ca0e4ab7e9fc1270d96e"
+hash = "09a2246cb32a1b13e94e264d53429e8fdf5bc1d6444bc4112f9f28b971f9dc54"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "d1480fd38a1ac53311baa2d57b92556834372f6ac04c355169441df9a59a161c"
+hash = "aa4dcf55ac3191b0b31437521714c1d28364c3396cf06ef07fa76a08488c1837"
 metafile = true
 
 [[files]]
 file = "mods/tooltipfix.pw.toml"
-hash = "3fdc9a7558c912db84c2b62845896e74a1633450a0d2a0721bce6a382b842213"
+hash = "379fc2a0bb704376335fa0ab301c3ed606d6bbdd520fa2bca1aeb86763d42b76"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "afc5f3bf4cae41e848070a109287bc6607c2f46045fc452da5d43189358adcb6"
 metafile = true
