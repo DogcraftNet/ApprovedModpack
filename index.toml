@@ -6,7 +6,7 @@ hash = "58d1e17ffe5109a7ae296caafcadfdbe6a7d176f0bc4ab01e12a689b0499d8bd"
 
 [[files]]
 file = "README.md"
-hash = "2947f8123be7ffd2bc4294c0bd658684feab119e5651475b42bcdda9cd38a3a1"
+hash = "77492a0f963dbb89990cc431ce593b4ea77d617702b7735ae950b91b3cc9633c"
 
 [[files]]
 file = "mods/betterf3.pw.toml"
@@ -75,7 +75,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "c1f6ffc26b8db5010feeb6ac48ebb391ae4e3cd4496db3f287c0978b593e53a7"
+hash = "637533a15bb4eb5aaaab5a8fdc352214732202def3beedcd91a4e4e614a74f2a"
 metafile = true
 
 [[files]]

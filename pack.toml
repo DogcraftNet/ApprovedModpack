@@ -1,12 +1,12 @@
 name = "DogcraftApproved"
 author = "William278"
-version = "3.0.0"
+version = "3.0.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "4fc6ac249eabaefcdecf3c3ae5ae2acf34e32c2dada3b657c4cd3ce9fd96d303"
+hash = "d22163fb56e3bdc073403fdd93f8a1db589a8d964028634fa2692ddad7a0de30"
 
 [versions]
 fabric = "0.14.19"
