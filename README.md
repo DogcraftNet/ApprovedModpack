@@ -1,4 +1,6 @@
 # Dogcraft Approved
+> Note: This is not the "[Dogcraft](https://modrinth.com/modpack/dogcraft-official)" modpack containing canine-themed mods for your world. This is the modpack for ReNDoG's Minecraft server (est. 2012, before the other pack!) Yes, it's been a [long running source of confusion](https://dogcraft.net/wiki/Frequently_Asked_Questions) ;-)
+
 This is a Minecraft 1.20.1 modpack containing the [mods approved for use](https://dogcraft.net/wiki/Rules/Mods_policy) on the Dogcraft Server (with some exceptions). These mods can improve your playing experience by boosting performance and providing several quality-of-life features. While this pack is intended for Dogcraft players, it can be used on any server.
 
 This is a community maintained pack and not an official distribution.
