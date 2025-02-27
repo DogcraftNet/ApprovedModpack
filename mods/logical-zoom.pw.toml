@@ -1,13 +1,13 @@
 name = "Logical Zoom"
-filename = "logical_zoom-0.0.20.jar"
+filename = "logical_zoom-0.0.28.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/8bOImuGU/versions/boSI7tyG/logical_zoom-0.0.20.jar"
-hash-format = "sha1"
-hash = "12f8640074ba225fbca884e5fb306f94ea9264bb"
+url = "https://cdn.modrinth.com/data/8bOImuGU/versions/WBFUCF2C/logical_zoom-0.0.28.jar"
+hash-format = "sha512"
+hash = "0dbd73983477a091898591f65b06a919daed8173f7123ba5d027f7775dbb363f914b239c4258075641ed2fc27ca803a8bf3f3cf019755d1a32b15a2e5fdba81e"
 
 [update]
 [update.modrinth]
 mod-id = "8bOImuGU"
-version = "boSI7tyG"
+version = "WBFUCF2C"
